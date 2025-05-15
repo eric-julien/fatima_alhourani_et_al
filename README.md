@@ -11,8 +11,11 @@ Drug synergy calculation
 
 
 Data file format specifications
+
 You must provide a xlsx file with one or more sheets
+
 The sheets names must be different from each other
+
 In each sheet:
  1. The first row must contains the names of two drugs in the first two cells
  2. Drug name order: row drug, column drug
