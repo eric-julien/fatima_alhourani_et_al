@@ -5,10 +5,28 @@ Drug synergy calculation
 
 
 
+# Code author
 
+Diego Tosi
 
 # Code information
 
+Code Version 2022
+R version > 4.1.2
+
+Dependancies: 
+
+readxl,
+gplots,
+dplyr,
+gtools,
+gridExtra,
+gridGraphics,
+ggplot2,
+ggpubr,
+plot3D,
+reshape2,
+openxlsx,
 
 Data file format specifications
 
