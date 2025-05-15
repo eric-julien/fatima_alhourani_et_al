@@ -23,7 +23,7 @@
 
 
 ## set wd
-wd <- "C:/users/jean-dupont/Documents/" 
+wd <- "C:/users/eric-julien/Documents/" #change the path to your file
 filename <- paste0(wd, "matrix-R.xlsx") 
 output <- paste0(wd, "output/")
 setwd(output)
