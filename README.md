@@ -1,4 +1,4 @@
-# fatima_alhourani_et_al
+# Fatima Alhourani et al.
 Drug synergy calculation
 
 
@@ -10,10 +10,10 @@ Drug synergy calculation
 Diego Tosi
 
 
-Code Version 2022
-R version > 4.1.2
+## Dependancies:
 
-Dependancies: 
+Code Version 2022
+R version > 4.1.2 
 
 readxl,
 gplots,
