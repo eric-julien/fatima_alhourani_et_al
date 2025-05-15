@@ -3,13 +3,12 @@ Drug synergy calculation
 
 
 
+# Code information
 
-
-# Code author
+## Code author
 
 Diego Tosi
 
-# Code information
 
 Code Version 2022
 R version > 4.1.2
@@ -28,7 +27,7 @@ plot3D,
 reshape2,
 openxlsx,
 
-Data file format specifications
+## Data file format specifications
 
 You must provide a xlsx file with one or more sheets
 
