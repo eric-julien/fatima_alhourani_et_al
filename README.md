@@ -7,7 +7,9 @@ Drug synergy calculation
 
 
 
-Code information
+# Code information
+
+
 Data file format specifications
 You must provide a xlsx file with one or more sheets
 The sheets names must be different from each other
